@@ -1,0 +1,42 @@
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe.config
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\bin\Debug\Lab_Serialization_.pdb
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\bin\Debug\PlayingCard.dll
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\bin\Debug\PlayingCard.pdb
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.csprojAssemblyReference.cache
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.CardsDealer.resources
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.Properties.Resources.resources
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.GenerateResource.cache
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.CoreCompileInputs.cache
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.CopyComplete
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.exe
+H:\BIT it607src\Lab_Serialization_\Lab_Serialization_\obj\Debug\Lab_Serialization_.pdb
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csprojAssemblyReference.cache
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.CardsDealer.resources
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.Properties.Resources.resources
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.GenerateResource.cache
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.CoreCompileInputs.cache
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.exe
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.pdb
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe.config
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.pdb
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\itextsharp.dll
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\PlayingCard.dll
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\itextsharp.xml
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\bin\Debug\PlayingCard.pdb
+H:\BIT it607src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.CopyComplete
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe.config
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.exe
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\Lab_Serialization_.pdb
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\itextsharp.dll
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\PlayingCard.dll
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\itextsharp.xml
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\bin\Debug\PlayingCard.pdb
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csprojResolveAssemblyReference.cache
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.CardsDealer.resources
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.Properties.Resources.resources
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.GenerateResource.Cache
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.csproj.CoreCompileInputs.cache
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.exe
+C:\Shawn IT607 src\PDF_Generator\Lab_Serialization_\obj\Debug\Lab_Serialization_.pdb
