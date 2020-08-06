@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{33BD0A94-0474-4FF5-BDD9-5D17B18D5873}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab_Serialization_/Form1.cs">
+    <Files>
+      <File FileName="Lab_Serialization_/Form1.cs" Line="1" Column="1" />
+      <File FileName="Lab_Serialization_/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_Serialization_" expanded="True">
+            <Node name="Lab_Serialization_" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab__Serialization__ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
