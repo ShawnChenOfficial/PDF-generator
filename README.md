@@ -7,4 +7,8 @@ This application is a simple C# Form application exercise built in the 2nd year 
 
 ## Run Application
 The application could run by Visual studio on Windows or run the exe file under the directry '/Lab_Serialization_/bin/Debug/Lab_Serialization_.exe'.
-Then click 'Deal Cards' which will shuffle the poker card in random order.
+
+
+###### Click 'Deal Cards' which will shuffle the poker card in random order.
+###### Then click 'Save' or 'Save As PDF' to save current order for all sets of poker cards.
+###### Click Load to load a local the record of poker cards order from a file.
